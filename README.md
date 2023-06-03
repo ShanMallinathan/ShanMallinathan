@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there I am Shanthinath Mallinathan (Shan)👋
+
+I am a masters student in robotics gearing up to redefine this industry
+
+🔭 I’m currently working on a low computation machine vision approach for mobile manipulator
+
+🌱 I love to explore into machine learning, machine vision and stock market
+
+🤖 I have so far worked on manipulator kinematics;
+                           path planning, path following and kalman filtering for mobile robots
+                           people following robot
+                           OpenCV C++, Python
+                           Machine learning and machine vision
+   Some of these works can be found here
+   
+  📫 Connect with me: https://www.linkedin.com/in/shanthinath-m/
+                      
+ 
 
 <!--
 **ShanMallinathan/ShanMallinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
