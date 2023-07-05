@@ -21,6 +21,8 @@ I am a masters student in robotics gearing up to redefine this industry
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanMallinathan&layout=donut)](https://github.com/ShanMallinathan/github-readme-stats)
 
+<h1 align="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShanMallinathan&theme=gruvbox&no-frame=true&row=1&rank=B,C" alt="ShanMallinathan"  /></h1>
+
 <!--
 **ShanMallinathan/ShanMallinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
