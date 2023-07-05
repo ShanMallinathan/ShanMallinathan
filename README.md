@@ -19,7 +19,7 @@ I am a masters student in robotics gearing up to redefine this industry
 
  [![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanMallinathan)](https://github.com/ShanMallinathan/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanMallinathan&layout=pie)](https://github.com/ShanMallinathan/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanMallinathan&layout=donut)](https://github.com/ShanMallinathan/github-readme-stats)
 
 <!--
 **ShanMallinathan/ShanMallinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
