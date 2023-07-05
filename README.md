@@ -4,7 +4,7 @@ I am a masters student in robotics gearing up to redefine this industry
 
 🔭 I’m currently working on a low computation machine vision approach for mobile manipulator
 
-🌱 I love to explore into machine learning, machine vision and stock market
+🌱 I am currently learning Pytorch
 
 🤖 I have so far worked on manipulator kinematics;
                            path planning, path following and kalman filtering for mobile robots, 
@@ -15,7 +15,7 @@ I am a masters student in robotics gearing up to redefine this industry
    
   📫 Connect with me: https://www.linkedin.com/in/shanthinath-m/
                       
- 
+ ![](https://komarev.com/ghpvc/?username=ShanMallinathan)
 
 <!--
 **ShanMallinathan/ShanMallinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
