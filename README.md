@@ -1,8 +1,8 @@
 ### Hi there I am Shanthinath Mallinathan (Shan)👋
 
-I am a masters student in robotics gearing up to redefine this industry
+I am a master's student in robotics gearing up to redefine this industry
 
-🔭 I’m currently working on a low computation machine vision approach for mobile manipulator
+🔭 I’m currently working on Autonomous manipulation of the mobile manipulator (MiR with UR16) using lightweight 3D object detection models
 
 🌱 I am currently learning Pytorch
 
