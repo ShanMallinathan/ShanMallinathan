@@ -2,13 +2,13 @@
 
 I am a master's student in robotics gearing up to redefine this industry
 
-🔭 I’m currently working on Autonomous manipulation of the mobile manipulator (MiR with UR16) using lightweight 3D object detection models
+🔭 I’m currently working on Autonomous manipulation of a mobile manipulator (MiR with UR16) using lightweight 3D object detection models
 
 🌱 I am currently learning Pytorch
 
 🤖 I have so far worked on manipulator kinematics;
-                           path planning, path following and kalman filtering for mobile robots, 
-                           people following robot, 
+                           path planning, path following and Kalman filtering for mobile robots, 
+                           people following robots, 
                            OpenCV C++, Python, 
                            Machine learning and machine vision. 
    Some of these works can be found here
