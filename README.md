@@ -2,7 +2,7 @@
 
 I am a master's student in robotics gearing up to redefine this industry
 
-🔭 I’m currently working on Autonomous manipulation of a mobile manipulator (MiR with UR16) using lightweight 3D object detection models
+🔭 I’m currently working a Computer vision and sensing algorithm for vineyard automation 
 
 🌱 I am currently learning Pytorch
 
