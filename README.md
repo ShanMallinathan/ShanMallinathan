@@ -2,9 +2,9 @@
 
 I am a master's student in robotics gearing up to redefine this industry
 
-🔭 I’m currently working a Computer vision and sensing algorithm for vineyard automation 
+🔭 I’m currently working on a Computer vision and sensing algorithm for vineyard automation 
 
-🌱 I am currently learning Pytorch
+🌱 I am currently learning reinforcement learning and RTOS
 
 🤖 I have so far worked on manipulator kinematics;
                            path planning, path following and Kalman filtering for mobile robots, 
